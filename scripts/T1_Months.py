@@ -6,7 +6,6 @@ import pyspark.sql.functions as f
 import pandas as pd
 import matplotlib as plt
 
-
 conf = SparkConf().setAppName('T1_Months')
 sc = SparkContext(conf = conf)
 spark = SparkSession(sc)
