@@ -422,30 +422,30 @@ En cuanto a los meses y años, se puede observar con en las mayoría de años se
 
 
 
-![alt_text](images/image16.png "image_tooltip")
+![alt_text](images/30-Accidentes2016.png "image_tooltip")
 
 
 
 
 
 
-![alt_text](images/image17.png "image_tooltip")
+![alt_text](images/30-Accidentes2017.png "image_tooltip")
 
 
 
-![alt_text](images/image18.png "image_tooltip")
+![alt_text](images/30-Accidentes2018.png "image_tooltip")
 
 
 
-![alt_text](images/image19.png "image_tooltip")
+![alt_text](images/30-Accidentes2019.png "image_tooltip")
 
 
-![alt_text](images/image20.png "image_tooltip")
+![alt_text](images/30-Accidentes2020.png "image_tooltip")
 
 
 
 
-![alt_text](images/image21.png "image_tooltip")
+![alt_text](images/31-.Crecimientopng "image_tooltip")
 
 
 Como se puede ver en las gráficas, hasta 2020 no hay accidentes de severidad 1, y en 2020 hay un crecimiento sin sentido de los accidentes en septiembre.
@@ -460,11 +460,11 @@ Pasando a analizar los días de la semana en que sucedieron los accidentes tambi
 
 
 
-![alt_text](images/image22.png "image_tooltip")
+![alt_text](images/32-%DiaSemana.png "image_tooltip")
 
 
 
-![alt_text](images/image23.png "image_tooltip")
+![alt_text](images/33-GravedadMedia.png "image_tooltip")
 
 
 En cuanto a la las franjas horarias obtuvimos los siguientes datos:
@@ -472,11 +472,11 @@ En cuanto a la las franjas horarias obtuvimos los siguientes datos:
 
 
 
-![alt_text](images/image24.png "image_tooltip")
+![alt_text](images/34-%FranjaHoraria.png "image_tooltip")
 
 
 
-![alt_text](images/image25.png "image_tooltip")
+![alt_text](images/35-MediaFranjaHoraria.png "image_tooltip")
 
 
 Obteniendo la mayor concentración de accidentes entre las 12:00 y las 16:60, y las 06:00 y 11:59, siendo el primer espacio horario en el que la gente entra y sale de trabajar y el segundo en el que entra.
@@ -488,11 +488,11 @@ La siguiente gráfica a analizar es la de los estados, en la que se ve que hay e
 
 
 
-![alt_text](images/image26.png "image_tooltip")
+![alt_text](images/36-AccidentesEstados.png "image_tooltip")
 
 
 
-![alt_text](images/image27.png "image_tooltip")
+![alt_text](images/37-GravedadEstados.png "image_tooltip")
 
 
 Y por último los datos que tienen que ver con el estado meteorológico. En el que se ve una mayor coherencia de los datos, ya que en condiciones meteorológicas desfavorables hay menos accidentes, ya que la gente es más reacia a salir, pero que justo en esos malos tiempos es donde hay mayor gravedad.
@@ -500,8 +500,8 @@ Y por último los datos que tienen que ver con el estado meteorológico. En el q
 
 
 
-
-![alt_text](images/image28.png "image_tooltip")
+![alt_text](images/38-SeveridadMetorologico.png "image_tooltip")
+![alt_text](images/39-%Clima.png "image_tooltip")
 
 
 Viendo la procedencia de los datos nos dimos cuenta de que fueron extraídos por una API que accede a los datos públicos de los estados y va guardando los datos, es por eso que existe esa brecha en el número de accidentes y la falta de consistencia en ellos.
