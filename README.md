@@ -210,7 +210,7 @@ Cluster 1
 
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/3-grafica1.png "image_tooltip")
 
 
 Cluster 2
@@ -218,7 +218,7 @@ Cluster 2
 
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/4-grafica2.png "image_tooltip")
 
 
 Cluster 3
@@ -226,7 +226,7 @@ Cluster 3
 
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/5-grafica3.png "image_tooltip")
 
 
 Cluster 4
@@ -234,7 +234,7 @@ Cluster 4
 
 
 
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](images/6-Cluster4.png "image_tooltip")
 
 
 Cluster 5
@@ -243,7 +243,7 @@ Cluster 5
 
 
 
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](images/7-Cluster5.png "image_tooltip")
 
 
 Cluster 6
