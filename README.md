@@ -394,7 +394,7 @@ Para los clusters de propósito general:
 
 
 
-![alt_text](images/image14.png "image_tooltip")
+![alt_text](images/14-Time-nNodes.png "image_tooltip")
 
 
 Para los clusters de propósito computacional:
@@ -404,7 +404,7 @@ Para los clusters de propósito computacional:
 
 
 
-![alt_text](images/image15.png "image_tooltip")
+![alt_text](images/15-Time4t.png "image_tooltip")
 
 
 Se puede ver que aquí hay más que analizar, lo primero es que el mejor rendimiento lo da el cluster de 3 nodos y 16 Threads por procesador. Esto se ve claramente porque en las gráficas de rendimiento porcentual de la CPU es el cluster más bajo de todos. Se podría decir que para esta cantidad de datos y procesamiento, el punto óptimo entre mover los datos y procesarlos es el cluster con 3 nodos y 16 Threads por CPU.
