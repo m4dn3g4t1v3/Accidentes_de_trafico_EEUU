@@ -445,7 +445,7 @@ En cuanto a los meses y años, se puede observar con en las mayoría de años se
 
 
 
-![alt_text](images/31-.Crecimientopng "image_tooltip")
+![alt_text](images/31-Crecimiento.png "image_tooltip")
 
 
 Como se puede ver en las gráficas, hasta 2020 no hay accidentes de severidad 1, y en 2020 hay un crecimiento sin sentido de los accidentes en septiembre.
@@ -472,7 +472,7 @@ En cuanto a la las franjas horarias obtuvimos los siguientes datos:
 
 
 
-![alt_text](images/34-%FranjaHoraria.png "image_tooltip")
+![alt_text](images/34-FranjaHoraria.png "image_tooltip")
 
 
 
@@ -501,7 +501,7 @@ Y por último los datos que tienen que ver con el estado meteorológico. En el q
 
 
 ![alt_text](images/38-SeveridadMetorologico.png "image_tooltip")
-![alt_text](images/39-%Clima.png "image_tooltip")
+![alt_text](images/39-Clima.png "image_tooltip")
 
 
 Viendo la procedencia de los datos nos dimos cuenta de que fueron extraídos por una API que accede a los datos públicos de los estados y va guardando los datos, es por eso que existe esa brecha en el número de accidentes y la falta de consistencia en ellos.
