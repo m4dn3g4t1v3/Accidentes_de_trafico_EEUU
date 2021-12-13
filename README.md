@@ -460,7 +460,7 @@ Pasando a analizar los días de la semana en que sucedieron los accidentes tambi
 
 
 
-![alt_text](images/32-%DiaSemana.png "image_tooltip")
+![alt_text](images/32-DiaSemana.png "image_tooltip")
 
 
 
