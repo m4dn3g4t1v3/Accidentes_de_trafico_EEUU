@@ -251,7 +251,7 @@ Cluster 6
 
 
 
-![alt_text](images/8-Cluster6.png "image_tooltip")
+![alt_text](images/8-cluster6.png "image_tooltip")
 
 
 Cluster 7
