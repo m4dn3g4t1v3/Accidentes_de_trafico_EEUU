@@ -251,7 +251,7 @@ Cluster 6
 
 
 
-![alt_text](images/image8.png "image_tooltip")
+![alt_text](images/8-Cluster6.png "image_tooltip")
 
 
 Cluster 7
@@ -260,7 +260,7 @@ Cluster 7
 
 
 
-![alt_text](images/image9.png "image_tooltip")
+![alt_text](images/9-Cluster7.png "image_tooltip")
 
 
 Cluster 8
@@ -268,7 +268,7 @@ Cluster 8
 
 
 
-![alt_text](images/image10.png "image_tooltip")
+![alt_text](images/10-Cluster8.png "image_tooltip")
 
 
 Cluster 9
@@ -277,7 +277,7 @@ Cluster 9
 
 
 
-![alt_text](images/image11.png "image_tooltip")
+![alt_text](images/11-Cluster9.png "image_tooltip")
 
 
 Cluster 10
@@ -285,17 +285,14 @@ Cluster 10
 
 
 
-![alt_text](images/image12.png "image_tooltip")
+![alt_text](images/12-Cluster10.png "image_tooltip")
 
 
 Cluster 11
 
 
 
-
-
-
-![alt_text](images/image13.png "image_tooltip")
+![alt_text](images/13-Cluster11.png "image_tooltip")
 
 
 Los resultados obtenidos en tiempo de ejecución son:
