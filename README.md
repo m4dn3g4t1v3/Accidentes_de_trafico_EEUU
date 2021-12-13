@@ -63,7 +63,7 @@ Ejemplo de tabla:
 
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/1-imagenTablaej.png "image_tooltip")
 
 
 
@@ -72,7 +72,7 @@ Ejemplo de tabla:
                
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/2-kaggle.png "image_tooltip")
 
 
 Los datos han sido obtenidos de la web “kaggle”, concretamente de esta entrada:
