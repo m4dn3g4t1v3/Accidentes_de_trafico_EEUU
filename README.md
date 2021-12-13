@@ -277,7 +277,7 @@ Cluster 9
 
 
 
-![alt_text](images/11-Cluster9.png "image_tooltip")
+![alt_text](images/11-cluster9.png "image_tooltip")
 
 
 Cluster 10
@@ -285,14 +285,14 @@ Cluster 10
 
 
 
-![alt_text](images/12-Cluster10.png "image_tooltip")
+![alt_text](images/12-cluster10.png "image_tooltip")
 
 
 Cluster 11
 
 
 
-![alt_text](images/13-Cluster11.png "image_tooltip")
+![alt_text](images/13-cluster11.png "image_tooltip")
 
 
 Los resultados obtenidos en tiempo de ejecución son:
